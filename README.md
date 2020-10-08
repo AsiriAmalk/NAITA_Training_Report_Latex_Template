@@ -16,7 +16,7 @@ I tried this make as close as possible to given recommended style but you can ch
 
 #### Top: National Apprentice and Industrial Training Authority (As the training provider NAITA)  -28 pts
 
-##### Center: Report on Industrial Training – 20 pts
+Center: Report on Industrial Training – 20 pts
 
                                     At -16 pts
 
